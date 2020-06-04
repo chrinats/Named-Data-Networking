@@ -1,5 +1,5 @@
 # Named-Data-Networking
-Large scale impact analysis on Big Data Packet Size in Named Data Newtwοrking.
+Large scale impact analysis on Big Data Packet Size in Named Data Netwοrking.
 A dumbell topology was used for research purposes, with variable data packet size and transmission delay.
 The simulations were performed on the ndn-sim.
 
